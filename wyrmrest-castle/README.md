@@ -1,6 +1,8 @@
 # Wyrmrest Castle
 
-![](./wyrmrest-castle-fl0-80pp.png)
+![](./wyrmrest-castle-fl0-80ppi.png)
+![](./wyrmrest-castle-fl1-80ppi.png)
+![](./wyrmrest-castle-fl2-80ppi.png)
 
 ### Spec
 

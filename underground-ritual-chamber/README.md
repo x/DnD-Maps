@@ -1,4 +1,4 @@
-# Whisker's Hollow
+# Underground Ritual Chamber
 
 ![](./underground-ritual-chamber-90ppi.png)
 
