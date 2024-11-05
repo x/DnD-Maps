@@ -14,7 +14,7 @@ for building_dir in building-*/; do
         output_file="$output_dir/${filename%.png}-%02d.png"
 
         # Perform the conversion
-        magick "$file" -crop 1000x800 +repage +adjoin "$output_file"
+        magick "$file" -crop 800x1000 +repage +adjoin "$output_file"
 
         echo "Processed $file -> $output_file"
     done
